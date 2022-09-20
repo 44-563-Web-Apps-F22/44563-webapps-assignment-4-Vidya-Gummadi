@@ -38,4 +38,12 @@ table, td, th {
 }
 tr:nth-child(even) {
     background-color:darkorange;
-  }
+}
+.Florian:hover {
+    text-shadow: 2px 2px 8px royalblue;
+   border-style: groove;
+}
+.Chorus:hover{
+    text-shadow: 2px 2px 8px red;
+    border-style: solid;
+}

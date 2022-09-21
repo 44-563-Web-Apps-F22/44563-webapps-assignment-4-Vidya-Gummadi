@@ -2,5 +2,3 @@
 A practice assignment for HTML with CSS
 
 
-
-
